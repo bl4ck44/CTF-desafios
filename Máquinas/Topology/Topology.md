@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Topology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=50&font=Fira+Code&pause=1000&width=435&lines=Topology" alt="Typing SVG" /></a>
 </p>
 
 **Online:** https://app.hackthebox.com/machines/546
