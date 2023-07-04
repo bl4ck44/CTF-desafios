@@ -50,6 +50,10 @@ Ahora usaremos John the Ripper para decifrar el hash
 sudo john hash --show
 ```
 
+<p align="center">
+<img src="./Img/john.png">
+</p>
+
 nos dara como usuario y contraseña **vdaisley:calculus20**
 
 **Paso 4:**
