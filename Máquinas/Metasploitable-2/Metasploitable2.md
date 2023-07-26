@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=60&color=19AC26FF&width=450&height=80&lines=Metasploitable 2"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=60&color=19AC26FF&width=500&height=80&lines=Metasploitable 2"></a>
 </p>
 
 **sourceforge:** https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
