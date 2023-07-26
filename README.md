@@ -10,4 +10,4 @@ NIVEL: **Facil**
 * O.S: **GNU / Linux**
 1. [Topology](https://github.com/bl4ck44/CTF-desafios/blob/master/M%C3%A1quinas/Topology/Topology.md)
 
-2. [Metasploitable 2]()
+2. [Metasploitable 2](https://github.com/bl4ck44/CTF-desafios/blob/master/M%C3%A1quinas/Metasploitable-2/Metasploitable2.md)
